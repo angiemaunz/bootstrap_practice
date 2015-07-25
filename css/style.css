@@ -261,3 +261,17 @@ a {
 	filter: grayscale(100%);
 	border-radius: 8px;
 }
+
+/** Styling for contact page.
+*
+* lsjflsjfl
+*
+**/
+
+.contact-form {
+	background: #111;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	border-radius: 4px;
+	margin-bottom: 3rem;
+}
