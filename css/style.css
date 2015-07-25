@@ -130,26 +130,23 @@ figure {
 
 .portfolio-item {
 	margin-bottom: 1rem;
-	border: solid 1px red;
 }
 .portfolio-item .col-sm-4 {
 	margin: 0;
 
 }
 
-/*.*/
-
 .portfolio-item img {
 	border-radius: 4px;
-	/*-webkit-filter: grayscale(100%);
-	filter: grayscale(100%);*/
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
 }
-/*.portfolio-item:hover img {
+.portfolio-item:hover img {
 	box-shadow: 0 0 0 5px rgba(0,0,0,0.05);
 	-webkit-filter: grayscale(50%);
 	filter: grayscale(50%);
 }
 .filterable-portfolio {
 	margin-bottom: 3rem;
-}*/
+}
 
