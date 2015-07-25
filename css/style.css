@@ -1,0 +1,6 @@
+@import "main.css";
+
+html {
+	background-color: #222;
+	background-image: url("img/abstract-bg.svg");
+}
